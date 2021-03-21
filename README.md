@@ -1,7 +1,7 @@
-# Hola, Bienvenid@!
+# Hola, ¡Bienvenid@s!
 <img src="https://media.giphy.com/media/Hko0sRjwUQL7IKmMqb/giphy.gif" width="1000">
 <p><em>Ingeniera Química de la <a href="https://www.uis.edu.co/webUIS/es/index.jsp">Universidad Industrial de Santander </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Estudiante de Ciencia de datos en <a href="https://www.acamica.com/">Acámica </a><img 
-src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="30"></br>Estudiante en <a href="http://protalento.org/">Protalento </a><img 
+src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="30"></br>Estudiante en <a href="http://protalento.org/">Protalento Latam</a><img 
 src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="20"> </br>Comunidad <a href="https://www.datasciencefem.com/">Data Science Fem </a><img src="https://media.giphy.com/media/LPJVN0RccP1W8/giphy.gif" width="20"> 
 </em></p>
 
@@ -14,7 +14,7 @@ src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="20"> </b
 <img align='right' src="https://media.giphy.com/media/hTfxZpUhcIKZQGk4TB/giphy.gif" width="300">  
 
 ```javascript
-const thai = {
+const Sary = {
   pronouns: "She" | "Her",
   Lenguajes: [Python, SQL, R],
   Frameworks: [Numpy, Pandas, Matplotlib, Scipy, Seaborn, Scikit-Learn],
