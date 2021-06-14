@@ -18,8 +18,8 @@ const Sary = {
   Frameworks: [Numpy, Pandas, Matplotlib, Scipy, Seaborn, Scikit-Learn],
   Comunidades Tech: {
                         "Data Science Fem",
-                        "Pioneras Dev",
-                        "ATIC"
+                        "Protalento Latam",
+                        "Geek Girls Latam"
                       },
  Mis intereses: Diversidad e Inclusión, Compartir y Aprender, Helado y Perritos.
  Challenge: "Data Challenge FEM 365"
