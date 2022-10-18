@@ -1,6 +1,6 @@
 # Hola, ¡Bienvenid@s!
 <img src="https://media.giphy.com/media/Hko0sRjwUQL7IKmMqb/giphy.gif" width="1000">
-<p><em>Ingeniera Química de la <a href="https://www.uis.edu.co/webUIS/es/index.jsp">Universidad Industrial de Santander </a></br>Estudiante de Ciencia de datos en <a href="https://www.acamica.com/">Acámica </a></br>Young Talent en <a href="http://protalento.org/">Protalento Latam</a></br>Comunidad <a href="https://www.datasciencefem.com/">Data Science Fem </a>
+<p><em>Ingeniera Química de la <a href="https://www.uis.edu.co/webUIS/es/index.jsp">Universidad Industrial de Santander </a></br>Community Builder y Team Leader en <a href="https://awswomencolombia.contactin.bio/">AWS WOMEN COL </a></br>Young Talent en <a href="http://protalento.org/">Protalento Latam</a></br>Comunidad <a href="https://www.datasciencefem.com/">Data Science Fem </a>
 </em></p>
 
 [![Twitter: SaryLibreros](https://img.shields.io/twitter/follow/SaryLibreros?style=social)](https://twitter.com/SaryLibreros)
